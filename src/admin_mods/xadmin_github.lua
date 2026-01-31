@@ -92,7 +92,6 @@ function api.Commands.UnbanID64(steamid64)
 end
 
 function api.Commands.Freeze(ply)
-    print('freeze', ply:SteamID64())
     RunConsoleCommand("xadmin", 'freeze', ply:SteamID())
 end
 
