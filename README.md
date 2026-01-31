@@ -8,6 +8,7 @@ A unified API for Garry's Mod admin mods. Write once, work with any supported ad
 - [**SAM**](https://www.gmodstore.com/market/view/sam)
 - [**ULX**](https://github.com/TeamUlysses/ulx)
 - [**sAdmin**](https://www.gmodstore.com/market/view/sadmin-the-best-admin-mod)
+- [**xAdmin**](https://github.com/TheXYZNetwork/xAdmin)
 
 ## Getting Started
 
