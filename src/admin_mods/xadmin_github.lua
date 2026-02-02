@@ -4,9 +4,6 @@ if not xAdmin.Github then return end
 
 local pairs = pairs
 
--- To avoid cost of Player.__index lookups
-local PLAYER = FindMetaTable("Player")
-
 ---@type PapiAPI
 local api = {
     Name = "xAdmin (Github)",
