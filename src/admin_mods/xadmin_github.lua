@@ -11,7 +11,7 @@ local api = {
 }
 
 function api.AddPermission(name, min_access, category)
-    // Not quote sure what this does
+    // Not quite sure what this does
 end
 
 function api.GetPermissions()
